@@ -81,6 +81,14 @@
 	  gtag('config', 'YOUR_GA_ID', { 'anonymize_ip': true, 'send_page_view': true });
 	</script>
 
+	<!-- Vercel Speed Insights -->
+	<script>
+	  window.si = window.si || function () { 
+	    (window.siq = window.siq || []).push(arguments); 
+	  };
+	</script>
+	<script defer src="/_vercel/speed-insights/script.js"></script>
+
 	<!-- Quiz Styles -->
 	<style>
 		.quiz-step {
