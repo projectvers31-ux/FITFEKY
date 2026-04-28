@@ -81,6 +81,12 @@
 	  gtag('config', 'YOUR_GA_ID', { 'anonymize_ip': true, 'send_page_view': true });
 	</script>
 
+	<!-- Vercel Web Analytics -->
+	<script>
+		window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+	</script>
+	<script defer src="/_vercel/insights/script.js"></script>
+
 	<!-- Quiz Styles -->
 	<style>
 		.quiz-step {
