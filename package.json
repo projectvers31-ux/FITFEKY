@@ -1,0 +1,12 @@
+{
+  "name": "fitfeky",
+  "version": "1.0.0",
+  "description": "Personalized Fitness, Weight Loss & Yoga Home Workout Plans",
+  "private": true,
+  "scripts": {
+    "postinstall": "echo 'Dependencies installed successfully'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
