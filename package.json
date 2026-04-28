@@ -1,0 +1,23 @@
+{
+  "name": "fitfeky",
+  "version": "1.0.0",
+  "description": "FitFeky - Personalized Fitness, Weight Loss & Yoga Home Workout Plans",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projectvers31-ux/fitfeky.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/projectvers31-ux/fitfeky/issues"
+  },
+  "homepage": "https://github.com/projectvers31-ux/fitfeky#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
