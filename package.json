@@ -1,0 +1,19 @@
+{
+  "name": "fitfeky",
+  "version": "1.0.0",
+  "description": "FitFeky - Personalized Fitness, Weight Loss & Yoga Home Workout Plans",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "test": "echo 'No tests configured'"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.1.0"
+  },
+  "keywords": [
+    "fitness",
+    "static-site"
+  ],
+  "author": "FitFeky",
+  "license": "MIT"
+}
